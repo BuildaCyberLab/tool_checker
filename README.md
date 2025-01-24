@@ -34,6 +34,10 @@ This script checks for over 100 tools, including:
     Python 3.x
     Linux or macOS (support for Windows requires modifications).
 
+## Example
+
+![image](https://github.com/user-attachments/assets/0948c1fb-7bdb-45be-bff6-f73741d08930)
+
 ## Contributing
 
 Feel free to submit issues or pull requests to enhance this script.
