@@ -23,11 +23,11 @@ This script checks for over 100 tools, including:
 
 2. Run the script:
    ```python
-  python3 tool_checker.py
+     python3 tool_checker.py
 
 3. Check the log file for results:
    ```python
-  cat tool_check.log
+     cat tool_check.log
 
 ## Requirements
 
